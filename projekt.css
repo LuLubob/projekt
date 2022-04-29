@@ -1,0 +1,15 @@
+body{
+    background-image:  url("https://ik.imagekit.io/lulubob/jeremy-perkins-uhjiu8FjnsQ-unsplash_NUwK6qo0g.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1651054625750");
+    background-size: cover;
+    background-color: black;
+}
+
+/*TOPNAV*/
+.topnav input{
+    border:1px solid gray;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    font-size: 18px;
+    padding: 3px;
+}
